@@ -6,7 +6,7 @@ I primarily work with JavaScript and Node.js, but in the coming days, I'll be ex
 
 🔭 I'm currently working on:
 <ul><li>Developing the front-end and back-end of Moon</li>
-  <li>Implementing new features and improving existing ones</li></ul><br>
+  <li>Implementing new features and improving existing ones</li></ul>
 
 <img align ="left" width ="47%" src= "https://github-readme-stats.vercel.app/api?username=mandybernd&show_icons=true&theme=transparent"/>
 <img align="left" width ="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mandybernd"/>
