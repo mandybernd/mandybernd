@@ -7,6 +7,7 @@ I primarily work with JavaScript and Node.js, but in the coming days, I'll be ex
 🔭 I'm currently working on:
 <ul><li>Developing the front-end and back-end of Moon</li>
   <li>Implementing new features and improving existing ones</li></ul>
+  <li>Finishing every challenge at Odin Project, incluiding about Ruby on rails.
 
 <h2>Design Tools</h2>
 
